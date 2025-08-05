@@ -1,0 +1,1 @@
+# ASL-recognition-via-Mediapipe-and-Pytorch
